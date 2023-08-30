@@ -1,0 +1,196 @@
+.Screen1{
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    box-sizing: border-box; 
+background-color: #FFFFFF;flex-direction: column;justify-content: flex-start;
+align-items: flex-start;
+}
+.fullloginlandingpage-1-55e0ebb2b03c4056bf4e90367701a05e{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+
+background-color: transparent;
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.header-1c7005bd34034cd3b482562d5b98ad41{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+padding-left: 120px;
+padding-right: 120px;
+box-sizing: border-box;
+background-color: transparent;
+height: 68px;min-height: 68px;
+align-self: stretch;
+    
+}
+.marca-7583acce60054895af56740496c97c1c{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+background-color: transparent;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-1-8256c871e24043efa556c2bb3a2beb90{
+     
+font-family: P;
+font-size: 22px;
+font-weight: normal;
+
+color: #000000;
+height: fit-content;
+width: fit-content;
+    
+}
+.ingresar-f75537e1c1b34497b78b17e1c2bc3e5d{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+background-color: transparent;
+height: fit-content;
+width: fit-content;
+    
+}
+.simplebutton-1-605d07de36af4fc6b1a73d9067830af0{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 4.724824355971896vh;
+background-color: #4096FF;
+height: fit-content;
+width: fit-content;
+    
+}
+.text-1-e50d2e98d6324a13b9b27a5537e26fa3{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 14px;
+
+
+margin-top: 19px;
+margin-bottom: 19px;
+margin-left: 50px;
+margin-right: 50px;
+box-sizing: border-box;
+color: #FFFFFF;
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-18-d4108a0ff72240129805f4dbe5523af2{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+background-color: transparent;
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.login1-1-6a3eb9a861ff42689e962e3a4d97329d{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 1.0245901639344261vh;
+box-shadow: 0px 0px 10px #aaaaaa;
+background-color: #FFFFFF;
+height: 350px;min-height: 350px;
+width: 420px;min-width: 420px;
+    
+}
+.layer-1-08b90e96a1414a5cbe25b819ee01ce1e{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+box-shadow: 0px 0px 0px #AAAAAA;
+background-color: #FFFFFF;
+height: fit-content;
+width: 301px;min-width: 301px;
+    
+}
+.text-1-61ca346e1b414714928a43122dbc6181{
+     text-align: left;
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18px;
+font-weight: bold;
+
+color: #171717;
+height: 60px;min-height: 60px;
+align-self: stretch;
+    
+}
+.layer-9-b21fac611f2e4e2caa80134ad61502ca{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+background-color: transparent;
+height: 29px;min-height: 29px;
+width: 100px;min-width: 100px;
+    
+}
+.layer-6-99ab03f488c04720bf7ea8feb4fe388c{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+background-color: transparent;
+height: 98px;min-height: 98px;
+align-self: stretch;
+    
+}
+.text-2-791cedcd115e40428e620bd48a461f4e{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 10px;
+
+
+margin-bottom: 5px;
+box-sizing: border-box;
+color: #000000;
+height: fit-content;
+align-self: stretch;
+    
+}
+.layer-3-070167b89b3f48b2a47d137980d8a1b3{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+background-color: transparent;
+height: 50px;min-height: 50px;
+width: 270px;min-width: 270px;
+    
+}
